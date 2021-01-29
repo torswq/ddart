@@ -9,6 +9,6 @@ can do it importing this library. The available features can be found at the bot
 This project is under development, there is no release as of yet, but it will be in the future, the current stage of this project is **alpha**
 
 ### Features
-*Data sorting
+- Data sorting
   - Selectionsort
   - Bubblesort
