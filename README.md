@@ -12,3 +12,4 @@ This project is under development, there is no release as of yet, but it will be
 - Data sorting
   - Selectionsort
   - Bubblesort
+  - Insertionsort
